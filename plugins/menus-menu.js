@@ -39,7 +39,7 @@ ${tradutor.texto1[1]} ${taguser}
 ${tradutor.texto1[2]}
 
 ${tradutor.texto1[3]} ${level}
-${tradutor.texto1[34]} ${Puta}
+${tradutor.texto1[34]} 
 ${tradutor.texto1[4]} ${exp}
 ${tradutor.texto1[5]} ${role}
 ${tradutor.texto1[6]} ${limit}
